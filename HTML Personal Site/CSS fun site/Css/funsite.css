@@ -1,0 +1,36 @@
+/**********************************Tag selectors********************************/
+h1{
+    color: brown;
+    font-size: 50px;
+    outline-style: dotted;
+    width: 30%;
+    /*
+    transform: rotate(45deg);
+    */
+}
+
+img:hover {
+    background-color: rgb(177, 177, 16);
+}
+p{
+    color: rgb(102, 69, 58);
+
+}
+/**********************************Class Selectors******************************/
+
+.bacon{
+    background-color: green;
+}
+.Art{
+    background-color: grey;
+}
+.proba{
+    border-radius: 5cm;
+}
+/********************************ID Selectors*********************************/
+#heading{
+    color: hotpink;
+}
+#vot:hover{
+    background-color: blueviolet;
+}
